@@ -1,2 +1,3 @@
 # Learning-Journal
-A learning journal of skills I try picking up, from code to CAD, and what catches my curiosity.
+
+A place to document what I'm learning across different areas.
