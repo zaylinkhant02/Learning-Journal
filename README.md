@@ -3,12 +3,12 @@
 My journey in computing began in Year 5 with the wonderful Scratch, the programming language. I spent countless hours upon hours exploring and experimenting with this software. Sometimes up to 6-10h in days outside of school consistently. I created games, experimented with different mechanics and was generally very engrossed in this new world. I continued using Scratch in Year 6, and during Year 6 I also learned MIT App Inventor and some basic web dev to create my own little website! But before this, my goal was to make games. Some things I made before switching to other languages:
 
 All the games can be seen on Scratch, here are their links:
-https://scratch.mit.edu/projects/1050571639/
-https://scratch.mit.edu/projects/1176656974/
-https://scratch.mit.edu/projects/1044229264/
-https://scratch.mit.edu/projects/1049093754/
-https://scratch.mit.edu/projects/1048836445/
-https://scratch.mit.edu/projects/1017838053/
+- https://scratch.mit.edu/projects/1050571639/
+- https://scratch.mit.edu/projects/1176656974/
+- https://scratch.mit.edu/projects/1044229264/
+- https://scratch.mit.edu/projects/1049093754/
+- https://scratch.mit.edu/projects/1048836445/
+- https://scratch.mit.edu/projects/1017838053/
 
 And one of the games I worked on for 2 years, got featured on a scratch mod called Cocrea!
 https://www.cocrea.world/@UADJUDUIUSDD/CHEESYPUFFS11111
