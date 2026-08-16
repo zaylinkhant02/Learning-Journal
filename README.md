@@ -26,3 +26,8 @@ Areas I'm currently learning:
 - C++ (embedded)
 - ESP32
 - 3D printing
+
+---
+
+Notes:
+Created: August 16, 2026
