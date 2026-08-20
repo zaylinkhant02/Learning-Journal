@@ -29,5 +29,11 @@ Areas I'm currently learning:
 
 ---
 
+## Earlier Work
+
+Before the journal and back in 2023, I built some websites in Year 7. They're not as polished, but they show where I started: https://github.com/zaylinkhant02/2024-2025-archive
+
+---
+
 Notes:
 Created: August 16, 2026
